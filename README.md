@@ -129,6 +129,10 @@ O plano de ação para a Sprint 2 consolida os requisitos em um cronograma de de
 * **Pipelines Iniciais de IA:** Estruturação de scripts em Python utilizando a biblioteca Scikit-learn para os algoritmos de detecção de anomalias e modelos iniciais de regressão de carga.
 * **Arquitetura da Stack Tecnológica Recomendada:** O ecossistema utilizará Python para os microsserviços de IA e processamento de dados, combinando frameworks rápidos como FastAPI ou Flask no desenvolvimento de APIs de integração, base de dados SQL estável, e dashboards Web interativos para as áreas de usuário e gestão.
 
+
+[Anexo arquitetural de referência](https://docs.google.com/document/d/10a1MKPUHdPsDgIa9nQxRNCuNimtSya_l4RL9cGNTSHo/edit?tab=t.0)
+
+
 ## 10. Referências e Fontes Consultadas
 
 * **ANEEL:** Resolução Normativa nº 1.000/2021. Disponível em: [https://leis.org/institucionais/br/aneel/lei/resolucao-normativa/2021/1000/resolucao-normativa-n-1000-2021-estabelece-as-regras-de-prestacao-do-servico-publico-de-distribuicao-de-energia-eletrica-revoga-as-resolucoes-normativas-aneel-n-414-de-9-de-setembro-de-2010-n-470-de-13-de-dezembro-de-2011-n-901-de-8-de-dezembro-de-2020-e-da-outras-providencias]
