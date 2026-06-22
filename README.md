@@ -56,7 +56,6 @@ A plataforma EV ChargeOps é estruturada em uma topologia de quatro macrocamadas
 
 Conforme mapeado na engenharia de sistemas do ecossistema, o fluxo estrutural de dados e dependências lógicas segue a topologia ilustrada abaixo:
 
-```text
 [ Usuário / Veículo Elétrico ]
   (Origem da Demanda Física)
               ↓
@@ -131,4 +130,4 @@ O plano de ação para a Sprint 2 consolida os requisitos em um cronograma de de
 * **Pipelines Iniciais de IA:** Estruturação de scripts em Python utilizando a biblioteca Scikit-learn para os algoritmos de detecção de anomalias e modelos iniciais de regressão de carga[cite: 1].
 * **Arquitetura da Stack Tecnológica Recomendada:** O ecossistema utilizará Python para os microsserviços de IA e processamento de dados, combinando frameworks rápidos como FastAPI ou Flask no desenvolvimento de APIs de integração, base de dados SQL estável, e dashboards Web interativos para as áreas de usuário e gestão[cite: 1].
 
-> **Anexo Arquitetural de Referência:** Diagrama de Fluxo e Engenharia de Sistemas[cite: 1]
+
