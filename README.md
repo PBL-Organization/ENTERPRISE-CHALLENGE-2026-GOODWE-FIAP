@@ -125,3 +125,6 @@ O plano de ação para a Sprint 2 consolida os requisitos em um cronograma de de
 * **Mecanismo de Simulação e Telemetria:** Construção de simuladores de payloads do carregador para validação do motor de cálculo de rateio individualizado em tempo real.
 * **Pipelines Iniciais de IA:** Estruturação de scripts em Python utilizando a biblioteca Scikit-learn para os algoritmos de detecção de anomalias e modelos iniciais de regressão de carga.
 * **Arquitetura da Stack Tecnológica Recomendada:** O ecossistema utilizará Python para os microsserviços de IA e processamento de dados, combinando frameworks rápidos como FastAPI ou Flask no desenvolvimento de APIs de integração, base de dados SQL estável, e dashboards Web interativos para as áreas de usuário e gestão.
+
+
+[Anexo Arquitetural de Referência](https://docs.google.com/document/d/10a1MKPUHdPsDgIa9nQxRNCuNimtSya_l4RL9cGNTSHo/edit?tab=t.0)
