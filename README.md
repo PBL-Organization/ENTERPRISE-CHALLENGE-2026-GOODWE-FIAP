@@ -1,9 +1,12 @@
 # ⚡ EV ChargeOps — Relatório de Integração Final
 **Consolidação Arquitetural, Regulatória, Inteligência Artificial e Engenharia de Rateio**
 
-* **Responsável:** Integrador & Tech Lead
-* **Escopo:** Visão Consolidada de Frentes
-* **Data:** Junho de 2026
+## Integrantes
+
+- Allan Victor Santos de Almeida Jesus (RM573218)
+- Gustavo Veloso Marchese dos Santos (RM568930)
+- José Elias Aleixo Lopes (RM568858)
+- Sarah Mendes Machado De Oliveira (RM570514)
 
 ---
 
@@ -126,5 +129,11 @@ O plano de ação para a Sprint 2 consolida os requisitos em um cronograma de de
 * **Pipelines Iniciais de IA:** Estruturação de scripts em Python utilizando a biblioteca Scikit-learn para os algoritmos de detecção de anomalias e modelos iniciais de regressão de carga.
 * **Arquitetura da Stack Tecnológica Recomendada:** O ecossistema utilizará Python para os microsserviços de IA e processamento de dados, combinando frameworks rápidos como FastAPI ou Flask no desenvolvimento de APIs de integração, base de dados SQL estável, e dashboards Web interativos para as áreas de usuário e gestão.
 
+## 10. Referências e Fontes Consultadas
 
+* **ANEEL:** Resolução Normativa nº 1.000/2021. Disponível em: [https://leis.org/institucionais/br/aneel/lei/resolucao-normativa/2021/1000/resolucao-normativa-n-1000-2021-estabelece-as-regras-de-prestacao-do-servico-publico-de-distribuicao-de-energia-eletrica-revoga-as-resolucoes-normativas-aneel-n-414-de-9-de-setembro-de-2010-n-470-de-13-de-dezembro-de-2011-n-901-de-8-de-dezembro-de-2020-e-da-outras-providencias]
+* **GoodWe:** Portal SEMS e Especificações Técnicas do Carregador HCA G2. Disponível em: https://semsplus.goodwe.com/
+* **Google para Desenvolvedores:** Documentação da API Google Places (`evChargeOptions`). Disponível em: https://developers.google.com/maps/documentation/places/web-service/
+* **Open Charge Map:** Documentação Oficial da API. Disponível em: https://openchargemap.org/site/develop
+* **Associação Brasileira de Veículos Elétricos (ABVE):** Estatísticas de infraestrutura. Disponível em: https://abve.org.br
 [Anexo Arquitetural de Referência](https://docs.google.com/document/d/10a1MKPUHdPsDgIa9nQxRNCuNimtSya_l4RL9cGNTSHo/edit?tab=t.0)
